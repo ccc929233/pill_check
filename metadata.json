@@ -1,0 +1,7 @@
+{
+  "name": "Pill Identifier for Seniors",
+  "description": "A simple application for seniors to identify medication by taking a photo. It provides easy-to-understand information on dosage and contraindications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
